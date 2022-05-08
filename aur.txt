@@ -1,0 +1,7 @@
+lightdm-webkit2-greeter
+lightdm-webkit-theme-aether
+google-chrome
+github-desktop-bin
+timeshift
+timeshift-autosnap
+shell-color-scripts
